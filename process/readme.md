@@ -5,7 +5,7 @@ We will document our process in this folder
 October
 
 ## 2026-10-06
-**listening to Sabrina** <br> <br>
+
 Yesterday, we learned to shape a virtual reality with absolutely no framework. <br>
 But we need the game we're going to create to be appelant to kids. <br>
 This world could be : 
@@ -129,7 +129,68 @@ Brecht
 
 
 Exercice 1 <br> <br>
+Cassandre Poirier-Simon<br>
+Reveal images of the story<br>
+Eternal Us, Hanieh Rashid, 2024<br>
+Turn ashes into jewels.<br>
+The object constructs the situation.<br>
 
+The object will reveal the logic of the world <br>
+
+External and internal conflicts<br>
+Character/Obstacle/Intention<br>
+Collection of personas<br>
+Reflective nostalgia is Make America Great Again.<br>
+
+Exercice 2<br>
+Le Petit Prince - childish ?<br>
+The main question <br><br>
+ID:<br>
+- Concept : Last of the class
+- Name : Wilfried
+- Age : 14 yo
+- Fool arround
+- Hopeless
+- Pride
+- Is he VULNERABLE ?
+
+<br>
+
+- Concept : Last of the class
+- Name : Lilo
+- Age : 14 yo
+- Silent (can listen)
+- Depressive (medicine)
+- Passionnate (culture sports)
+- Is he LONELY ?
+
+<br>
+
+- Archetype (arch-superior)
+- Stereotype (stereo-fixe) lie but still say it
+- Cliché (figure - familiar)
+
+## 2026-10-13
+
+### Plot <br>
+
+John August Character Creator Kit, with a deck of cards <br>
+Beginning / Middle / End<br>
+How people change in the middle<br>
+Can fail to change, no resolution<br>
+Game Graveyard<br>
+Game Passage<br><br>
+
+How to write a story<br>
+Look at interesting stories<br>
+Homeostasis and perturbation, accpetable imperfection has to be perturbated<br>
+Bringing a lot of love and empathy to our characters <br>
+You have to destroy the stasis and the hero will try to get it back <br><br>
+[Every day the same dream](https://www.molleindustria.org/everydaythesamedream/everydaythesamedream.html)<br>
+[Lieve Oma](https://vltmn.itch.io/lieve-oma)<br><br>
+Wrinting a story is about asking questions<br>
+Stories are parts of life in a short scale, when we create stories we allow questions to rise<br>
+Talk about reality without facing too much reality<br>
 
 
 ## References
@@ -143,6 +204,7 @@ About the identity within gangs (racial, mixed) <br><br>
 About the algorithms of stories, collective writing<br><br>
 
 - La Forteresse cachée (The Hidden Fortress), Akira Kurosawa, 1958
+Star Wars is based on this film.
 
 - The Carrier Bag Theory of Fiction, American author Ursula K. Le Guin, 1986
 
@@ -161,3 +223,10 @@ For the concepts she theorized<br><br>
 - Speculative everything Design Fiction and Social Dreaming, Anthony Dunne Fiona Ruby, 2013
 
 - Umberto Eco, Six walks in the fictionnal woods, 1994
+
+- Narrative space / Spetializing narrative, Marie-Laure Ryan Kenneth Foote, Maoz Azaryahu, 2016
+
+- Blow-Up, Michelangelo Antonioni, 1966
+
+- George Saunders, A swim in the pond in the rain, 2021
+
