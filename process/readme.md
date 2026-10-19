@@ -1,232 +1,70 @@
-# Process
-We will document our process in this folder
+## 2026-10-19
 
-# 2026-10
-October
-
-## 2026-10-06
-
-Yesterday, we learned to shape a virtual reality with absolutely no framework. <br>
-But we need the game we're going to create to be appelant to kids. <br>
-This world could be : 
-- fantasy
-- solarpunk
-- cottagecore
-- high school drama
-- supernatural
-- gangster
-- weirdcore 
-- historic (victorian)
-
-Could be a gangsta game in a Swiss city. OG-NEVA. <br>
-Drugs = chocolate <br>
-No guns <br>
-Life : Cool points aura Battle : The cool system <br>
-What are the resources : chocolate, fruits, <br>
-
-The roles could be : 
-- the dealer is selling black market items
-- the consumer needs to hide chocolate in the city
-- the officer can not catch the dealer
-- the banker
-- the killer
-- the driver
-
-UI : Cool bar, chat group (vocal/text/pictures), inventory, market, gang <br>
-
-3 gangs 
-- The warriors
-- The skaters
-- The alpinists
-- The Head Axe
-- The cheese mongers
-
-What type of agency does the bully have in this world ? <br>
-A system that allows bullying <br>
-Someone has the role to stop the bully<br>
-
-Rules
-Each gang receives one advantage and one disavandtage<br>
-Each has its own costum<br>
-Hidden roles<br>
-Gang and personal quests and earn and lose points of style<br>
-Find bullies to get allies<br>
-Inter dependancy
-
-
-Attack
-- a gang can throw fruits
-- a gang can take humiliating photos of others 
-
-throwing fruits - the same as throwing paper balls<br>
-the police bullying people gets people frustrated<br><br>
-
-Defense
-- a gang can sell the chocolate
-- a gang can dance only with a group 
-- a gang can make videos to get likes
-
-
-.<br>
-
-- the dealer is selling black market items 
-
-.<br>
-
-Death of the game<br>
-Design can not spoil the fun<br>
-Subroles to collect everyone has money, to create interaction, some people can steau<br>
-
-Identify how these things translate into reality ?<br>
-
-The bystander effect
-Not verbal communication
-The world collides in the chat
-
-diegetic / extra diegetic
-
-![diegetic](images/diegetic.png)
-
-![Draw-a-Vesica-Piscis-Normalize-Radius-to-One](images/Draw-a-Vesica-Piscis-Normalize-Radius-to-One.png)
-
-## 2026-10-12
-
-Apophenia is the human tendency to perceive meaningful patterns, connections, or significance in random or unrelated things<br> <br>
-
-Narration over writing and formulas<br>
-The core is more important than the structure<br> 
-Role play emerged during the 1970s with war games (1973 DND)<br> 
-We have to think about system and functions that create the experience od narrration
-<br>
-Jospeh Campbell, psycho-analytic practice, finding systems of stories in litterature, discovering mythology by traveling, very western white approach. <br><br>
-Starwars is based on another movie : La Forteresse cachée (The Hidden Fortress), Akira Kurosawa, 1958 <br>
-Theater, video game, novels<br>
-Video games can structured in another way than linear<br><br>
-Kishotenketsu
-• Ki (起 – Introduction) : plante le décor <br><br>
-• Shō (承 – Développement) : l'action, approfondit l'univers et fait progresser les événements sans conflit majeur.<br><br>
-• Ten (転 – Le Tournant / Twist) : C'est le moment clé où un événement inattendu ou un retournement de situation survient. Cet élément peut sembler sans lien direct avec les actes précédents, créant un changement de perspective radical.<br><br>
-• Ketsu (結 – Conclusion) : unifie tous les éléments, y compris le tournant surprenant, pour amener une résolution ou une harmonie cohérente, souvent basée sur la compréhension plutôt que sur la victoire.<br><br>
-
-Technê, movable technology<br>
-Why is ... like that ?<br>
-"Narrer" faire connaître, dire<br>
-Anecdotes are a bad form of storytelling<br>
-Something important is the configuration, someone speaking, someone listening, relation<br><br>
-When we tell stories we tell how people and things, relate to each other, carrying you back
-<br>
+# Computhug
 
-World building<br>
+## Pitch
 
-Minimal Departure : the world is as close to the real world, unless explicitly stated otherwise<br>
+Functionings I'd like to keep
+- The game bullies you
+- Potentially the game doesn't obey you
+- Minimal (overstimulating) aesthetics 
 
-The reader contract<br>
-What is explicit / implicit ?<br>
-To let the reader fill in the details
+## Inspirations
 
-Brecht
-[Possible worlds](https://plato.stanford.edu/entries/possible-worlds/)
+- ###  Militsioner
+- A policeman is watching you, you are dententioned in a sovietic city. If he gets upset he will take out his anger on you
 
+I like the story and the asesthetics realistic but still very peculiar. It feels like he's bullying you and you have to figure the reason he is and eventually try to understand him.
 
-Exercice 1 <br> <br>
-Cassandre Poirier-Simon<br>
-Reveal images of the story<br>
-Eternal Us, Hanieh Rashid, 2024<br>
-Turn ashes into jewels.<br>
-The object constructs the situation.<br>
+![Militsioner](images/militsioner.jpg)
 
-The object will reveal the logic of the world <br>
+- ### Momo pixel
+- Hair Nah is a travel game about a Black woman tired of people touching her hair. The arcade game uses motion-sensing technology to track body movements, rather than requiring the player to use traditional game controls. 
 
-External and internal conflicts<br>
-Character/Obstacle/Intention<br>
-Collection of personas<br>
-Reflective nostalgia is Make America Great Again.<br>
+I like how we wouldn't expect a game on this topic and to gamify a very real situation.
 
-Exercice 2<br>
-Le Petit Prince - childish ?<br>
-The main question <br><br>
-ID:<br>
-- Concept : Last of the class
-- Name : Wilfried
-- Age : 14 yo
-- Fool arround
-- Hopeless
-- Pride
-- Is he VULNERABLE ?
+![momopixel](images/momopixel.png)
 
-<br>
+- ### Hypnospace Outlaw
+- ethnographic archive of the 1990s "vernacular web": pages created by amateurs
+- raises questions that are still relevant today about moderation, censorship, the power of tech companies, and the obsolescence of the web, with the Y2K bug as a backdrop.
+- fake operating system, HypnOS, with a desktop, windows, a trash can, wallpapers, and screensavers.
+- fake viruses attacking your desktop: windows that open on their own, moving icons, and intrusive mascots.
 
-- Concept : Last of the class
-- Name : Lilo
-- Age : 14 yo
-- Silent (can listen)
-- Depressive (medicine)
-- Passionnate (culture sports)
-- Is he LONELY ?
+![hypnospace-outlaw](images/hypnospace-outlaw.png)
 
-<br>
+- ### Poco
+- Poco is a tiny clown who dreams of joining the giant circus. The jury then opens a trapdoor, and Poco falls into the Below World. It's a vast junkyard where discarded objects and those rejected by the circus end up.
+- The true subject of the game is this reunion of siblings, more so than the quest for the rocket.
 
-- Archetype (arch-superior)
-- Stereotype (stereo-fixe) lie but still say it
-- Cliché (figure - familiar)
+![poco](images/poco.jpg)
+![poco](images/poco-2.png)
 
-## 2026-10-13
+- ### Video Verse
+- world : fake 2000s social network that's about to shut down
+- theme : toxicity, harassment, and online friendships
 
-### Plot <br>
+![videoverse](images/video-verse.png)
+![videoverse](images/video-verse-2.png)
 
-John August Character Creator Kit, with a deck of cards <br>
-Beginning / Middle / End<br>
-How people change in the middle<br>
-Can fail to change, no resolution<br>
-Game Graveyard<br>
-Game Passage<br><br>
+- ### Player Non Player
+- world : strange island and meet four enigmatic characters. Interact with them, befriend them, and discover their dreams
+- help these characters so they can finally find peace
 
-How to write a story<br>
-Look at interesting stories<br>
-Homeostasis and perturbation, accpetable imperfection has to be perturbated<br>
-Bringing a lot of love and empathy to our characters <br>
-You have to destroy the stasis and the hero will try to get it back <br><br>
-[Every day the same dream](https://www.molleindustria.org/everydaythesamedream/everydaythesamedream.html)<br>
-[Lieve Oma](https://vltmn.itch.io/lieve-oma)<br><br>
-Wrinting a story is about asking questions<br>
-Stories are parts of life in a short scale, when we create stories we allow questions to rise<br>
-Talk about reality without facing too much reality<br>
+![player-non-player](images/player-non-player-2.png)
+![player-non-player](images/player-non-player.png)
 
+- ### Dys4ia
+![Dys4ia](images/dys4ia.png)
+- a series of pixel art mini-games
+- about the author's gender transition
+- comments, misgendering, and reactions of others
+-  short and  striking.
 
-## References
+![Dys4ia](images/dys4ia-2.png)
 
-- Les guerriers de la nuit, The Warriors, 1979
+- ### Poney Island
+- world : takes you on a fantastical journey through time, blending myths, deities, and video games
+- goal: to escape the demons of Hell with your soul… and your wits. This game has absolutely nothing to do with ponies.
 
-About the identity within gangs (racial, mixed) <br><br>
-
-- Morphologie du conte, Vladimir Propp, 1946
-
-About the algorithms of stories, collective writing<br><br>
-
-- La Forteresse cachée (The Hidden Fortress), Akira Kurosawa, 1958
-Star Wars is based on this film.
-
-- The Carrier Bag Theory of Fiction, American author Ursula K. Le Guin, 1986
-
-Reinterprets human evolution and storytelling.<br><br>
-
-- The fog, John Carpenter, 1980
-
-As an exemple of narration <br><br>
-
-- Marie-Laure Ryan, Possible worlds, AI and narrative theory, 1991
-
-For the concepts she theorized<br><br>
-
-- Life in Five Seconds: The Short Story of Absolutely Everything, Matteo Civaschi, 2012
-
-- Speculative everything Design Fiction and Social Dreaming, Anthony Dunne Fiona Ruby, 2013
-
-- Umberto Eco, Six walks in the fictionnal woods, 1994
-
-- Narrative space / Spetializing narrative, Marie-Laure Ryan Kenneth Foote, Maoz Azaryahu, 2016
-
-- Blow-Up, Michelangelo Antonioni, 1966
-
-- George Saunders, A swim in the pond in the rain, 2021
-
+![poney-island](images/poney-island.jpg)
