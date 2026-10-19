@@ -8,6 +8,7 @@ Functionings I'd like to keep
 - The game bullies you
 - Potentially the game doesn't obey you
 - Minimal (overstimulating) aesthetics 
+- Strange disturbing
 
 ## Inspirations
 
